@@ -46,6 +46,3 @@
 14. **JSON 인코딩과 디코딩**  
     [자세히 읽기](https://github.com/park-02/My_home/wiki/15%EC%A3%BC-%EC%B0%A8-JSON-%EC%9D%B8%EC%BD%94%EB%94%A9%EA%B3%BC-%EB%94%94%EC%BD%94%EB%94%A9)
 
----
-
-<h2>감사합니다.</2>
